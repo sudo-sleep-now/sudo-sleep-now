@@ -20,4 +20,6 @@ Cool ocean project, I guess. [Try it](https://sudo-sleep-now.github.io/Pelagic/)
 Email: [sudo.sleep@yahoo.com](mailto:sudo.sleep@yahoo.com)  
 Discord: **sudo.sleep\_**
 
+---
+
 ![Felix Yap](https://media1.tenor.com/m/p2F7I4v8nrkAAAAd/felix-felix-re-zero.gif)
